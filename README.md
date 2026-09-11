@@ -2,7 +2,7 @@
 
 ## Repository Setup Instructions
 
-1. Navigate to the course assignment template.
+1. Navigate to the template.
 2. Click the green **Use this template** button in the top right corner of the repository page.
 3. Click "create a new repository".
 4. Under **Owner**, select this organization (uh-manoa-ics212-f26).
